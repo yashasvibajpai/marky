@@ -28,19 +28,19 @@ textarea, input, div, button {
 }
 
 .controls {
-  background-color: rgb(217, 241, 238);
+  background-color: rgb(229, 229, 229);
   padding: 10px 10px 10px 10px;
 }
 
 button {
   font-size: 14px;
-  background-color: rgb(181, 220, 216);
+  background-color: rgb(29, 53, 87);
   border: none;
   padding: 0.5em 1em;
 }
 
 button:hover {
-  background-color: rgb(156, 198, 192);
+  background-color: rgb(69, 123, 157);
 }
 
 button:active {
@@ -48,7 +48,7 @@ button:active {
 }
 
 button:disabled {
-  background-color: rgb(196, 204, 202);
+  background-color: rgb(168, 218, 220);
 }
 
 .container {
@@ -75,7 +75,7 @@ button:disabled {
 
 .raw-markdown {
   border: 5px solid rgb(238, 252, 250);;
-  background-color: rgb(238, 252, 250);
+  background-color: rgb(216, 226, 220);
   font-family: monospace;
 }
 
@@ -85,6 +85,6 @@ button:disabled {
 }
 
 .raw-markdown.drag-error {
-  background-color: rgba(170, 57, 57,1);
+  background-color: rgba(230, 57, 70,1);
   border-color: rgba(255,170,170,1);
 }
